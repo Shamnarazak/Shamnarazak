@@ -1,6 +1,6 @@
-# Hi there, I'm Shamna Abdul Razak 👋
+## Hi there, I'm Shamna Abdul Razak 👋
 
-## Data Analyst | Excel | SQL | Tableau | Power BI
+### Data Analyst | Excel | SQL | Tableau | Power BI
 
 I am a Data Analyst with a passion for transforming raw data into meaningful business insights. I enjoy solving business problems through data visualization, dashboard development, and analytical thinking.
 
